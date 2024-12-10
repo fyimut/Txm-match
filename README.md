@@ -1,5 +1,5 @@
 # TMX Match
-
+https://colab.research.google.com/drive/1_qAbKyUDMZKcgU067tmpvmTGbMZLtLHn?usp=sharing
 ## 项目概述
 
 TMX Match 是一个基于 Python 的工具，旨在通过多种方法计算给定句子与翻译记忆库之间的相似度，包括 BERT 嵌入、Jaccard 相似度、包含度相似度和莱文斯坦距离。该项目利用自然语言处理的强大功能，提高翻译的效率和准确性。
