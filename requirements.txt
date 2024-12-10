@@ -1,0 +1,8 @@
+transformers
+jieba
+python-Levenshtein
+seaborn
+matplotlib
+scipy
+numpy
+scikit-learn
